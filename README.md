@@ -1,3 +1,5 @@
-# Skup uradjenih zadataka u programskom jeziku Asembler
+# Skup urađenih zadataka u Asembleru
 
 ---
+
+Zadaci rađeni tokom kursa *Arhitektura računara*
